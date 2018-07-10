@@ -3,11 +3,11 @@ A memory game inspired from Udacity's Memory game project for front end nanodegr
 ## Tasks
   
 
- - [ ] Make the flipping animation for Divs
+ - [ ] Make the flipping animation for icon Divs
 
   
 
- - [ ] Algorithm for ensuring only 2 divs can be flipped
+ - [ ] Algorithm for ensuring only 2 icon divs can be flipped
 
   
 
@@ -19,5 +19,5 @@ A memory game inspired from Udacity's Memory game project for front end nanodegr
 
   
 
- - [ ] When every card is flipped, congratulate the user
+ - [ ] When every icon is flipped, congratulate the user
 
