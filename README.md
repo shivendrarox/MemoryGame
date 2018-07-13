@@ -3,21 +3,16 @@ A memory game inspired from Udacity's Memory game project for front end nanodegr
 ## Tasks
   
 
- - [ ] Make the flipping animation for icon Divs
-
-  
-
- - [ ] Algorithm for ensuring only 2 icon divs can be flipped
-
-  
+ - [x] Randomly shuffle the cards on deck
+ 
+ - [ ] Make the flipping animation for cards
+ 
+ - [ ] Algorithm for ensuring only 2 cards can be flipped
 
  - [ ] Record number of moves
 
-  
-
  - [ ] Check Whether they match and do the needful
-
+	- [ ]  if they match, keep them flipped open
+	- [ ] if they don't , hide the card.
   
-
- - [ ] When every icon is flipped, congratulate the user
-
+- [ ] When every card is matched, congratulate the user.
